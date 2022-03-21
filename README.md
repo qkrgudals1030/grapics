@@ -1,8 +1,8 @@
 # 그래픽스 과제
-*3차원 지형을 noise() 함수를 이용하여 작성하시오.
-*변형을 적용하시오.
-*▷ 유튜브 강의: (https://youtu.be/IKB1hWWedMk)
-*▷ 3D Terrain Generation
+3차원 지형을 noise() 함수를 이용하여 작성하시오.\
+변형을 적용하시오.
+▷ 유튜브 강의: (https://youtu.be/IKB1hWWedMk)
+▷ 3D Terrain Generation
 (https://editor.p5js.org/codingtrain/sketches/OPYPc4ueq)
 
 ![image](https://user-images.githubusercontent.com/50895124/159277617-ffd71129-68d8-46b5-87df-ea837bc6f9ff.png)
